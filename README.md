@@ -43,11 +43,11 @@
 ## 🚀 Projects
 🔹 **Calculator Web App**  
 → Real-time calculations, keyboard support, custom logic (no eval)  
-🔗 https://vijay-kumar.github.io/Calculator/
+🔗 https://vijay-kumar0.github.io/Calculator/
 
 🔹 **Portfolio Website**  
 → Responsive UI showcasing projects & skills  
-🔗 https://vijay-kumar.github.io/My-Portfolio/
+🔗 https://vijay-kumar0.github.io/My-Portfolio/
 
 ---
 ## 🐍 Contribution Snake
