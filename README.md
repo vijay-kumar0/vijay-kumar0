@@ -27,41 +27,35 @@
 ---
 
 ## 🛠️ Skill & Tech
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode" />
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijay-kumar0&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-kumar0&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+</p
 
 ---
-
 ## 🚀 Projects
+🔹 **Calculator Web App**  
+→ Real-time calculations, keyboard support, custom logic (no eval)  
+🔗 https://vijay-kumar.github.io/Calculator/
 
-- 🧮 Calculator Web App  
-  → Real-time calculations, keyboard input, custom logic (no eval)  
-  🔗 https://vijay-kumar.github.io/Calculator/
+🔹 **Portfolio Website**  
+→ Responsive UI showcasing projects & skills  
+🔗 https://vijay-kumar.github.io/My-Portfolio/
 
-- 🌐 Portfolio Website  
-  → Responsive design showcasing projects and skills  
-  🔗 https://vijay-kumar.github.io/My-Portfolio/
 ---
 ## 🐍 Contribution Snake
-
 <p align="center">
   <img width="100%" src="https://raw.githubusercontent.com/vijay-kumar0/vijay-kumar0/output/github-contribution-grid-snake-neon.svg" />
 </p>
+
 ---
-
 ## 🔗 Connect With Me
-
 <p align="center">
 
 <a href="https://github.com/vijay-kumar0">
