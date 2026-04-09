@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi 👋 I'm Vijay Kumar</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=vijay-kumr0&color=blue" />
 </p>
 
 <p align="center">
