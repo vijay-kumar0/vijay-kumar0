@@ -8,6 +8,9 @@
 <p align="center">
   <b>Aspiring Software Developer | Building Clean & Functional Projects</b>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;JavaScript+Learner;Building+Projects" />
+</p>
 
 ---
 
