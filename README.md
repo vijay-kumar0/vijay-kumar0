@@ -37,6 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vijay-kumar0&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-kumar0&theme=tokyonight&hide_border=true" height="150"/>
 </p
+<br>
 
 ---
 ## 🚀 Projects
