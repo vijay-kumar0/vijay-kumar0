@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skill & Tech
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode" />
@@ -45,8 +45,8 @@
 
 ## 🚀 Projects
 
-- 🧮 Calculator Web App  
-- 🌐 Portfolio Website
+- 🧮 Calculator Web App → https://vijay-kumar.github.io/Calculator/ 
+- 🌐 Portfolio Website  → https://vijay-kumar.github.io/My-Portfolio/
 
 ---
 
