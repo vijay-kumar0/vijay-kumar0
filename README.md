@@ -4,6 +4,9 @@
 </p>
 
 <h2 align="center">Hi 👋 I'm Vijay Kumar</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+</p>
 
 <p align="center">
   <b>Aspiring Software Developer | Building Clean & Functional Projects</b>
