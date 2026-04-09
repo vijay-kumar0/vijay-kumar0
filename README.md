@@ -45,9 +45,13 @@
 
 ## 🚀 Projects
 
-- 🧮 Calculator Web App → https://vijay-kumar.github.io/Calculator/ 
-- 🌐 Portfolio Website  → https://vijay-kumar.github.io/My-Portfolio/
+- 🧮 Calculator Web App  
+  → Real-time calculations, keyboard input, custom logic (no eval)  
+  🔗 https://vijay-kumar.github.io/Calculator/
 
+- 🌐 Portfolio Website  
+  → Responsive design showcasing projects and skills  
+  🔗 https://vijay-kumar.github.io/My-Portfolio/
 ---
 
 ## 📫 Connect With Me
