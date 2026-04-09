@@ -54,9 +54,8 @@
   🔗 https://vijay-kumar.github.io/My-Portfolio/
 ---
 ## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vijay-kumar0/vijay-kumar0/output/github-contribution-grid-snake-neon.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/vijay-kumar0/vijay-kumar0/output/github-contribution-grid-snake-neon.svg" />
 </p>
 ---
 ## 🔗 Connect With Me
