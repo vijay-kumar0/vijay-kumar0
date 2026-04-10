@@ -52,7 +52,8 @@
 ---
 ## 🐍 Contribution Snake
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/vijay-kumar0/vijay-kumar0/output/github-contribution-grid-snake-neon.svg" />
+  <img src="https://raw.githubusercontent.com/vijay-kumar0/vijay-kumar0/output/github-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/vijay-kumar0/vijay-kumar0/output/github-snake-light.svg#gh-light-mode-only" />
 </p>
 
 ---
